@@ -1,0 +1,12 @@
+# Replace the reserved example hostname with a hostname you control.
+mcp.example.com {
+    @mcp path /mcp /mcp/*
+    handle @mcp {
+        reverse_proxy 127.0.0.1:5556 {
+            flush_interval -1
+        }
+    }
+    handle {
+        respond "Not Found" 404
+    }
+}

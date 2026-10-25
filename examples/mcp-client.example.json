@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "xhs-reader": {
+      "url": "https://mcp.example.com/mcp",
+      "headers": {
+        "Authorization": "Bearer REPLACE_WITH_YOUR_LOCAL_TOKEN"
+      }
+    }
+  }
+}

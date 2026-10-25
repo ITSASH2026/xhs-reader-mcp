@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!requirements-addon.txt
+!app
+!app/*.py
+!LICENSE
+!NOTICE.md
