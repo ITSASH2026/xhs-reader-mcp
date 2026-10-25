@@ -1,5 +1,7 @@
 # XHS Reader MCP
 
+*Built by a human who wanted her AI to read what she reads.*
+
 **基于 [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) 二次开发的 MCP 阅读扩展，按 GPL-3.0 开源。**原项目提供笔记信息提取、媒体下载等基础能力，本项目保留其来源和许可，不将这些能力声明为原创。
 
 在原项目基础上，新增公开分享页评论读取、视频抽帧、离线语音转录、异步结果领取及临时媒体自动清理，并将截图以 MCP 图像内容返回给 AI 客户端。可自行部署，无需购买第三方内容 API。具体改动与第三方说明见 [NOTICE.md](NOTICE.md)。
