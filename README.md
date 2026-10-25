@@ -6,6 +6,14 @@
 
 这是独立的扩展项目，不是小红书官方服务，也不是原项目作者提供的托管服务。需要自行部署；不附带任何可直接连接的公共服务器或账号。
 
+## 按设备安装
+
+- **Mac 电脑：**[Mac 安装说明](docs/install-mac.md)，包含 Intel 与 Apple 芯片的注意事项。
+- **Windows 电脑：**[Windows 安装说明](docs/install-windows.md)，使用 Docker Desktop 的 Linux 容器。
+- **Linux / VPS：**继续阅读下方安装步骤。
+
+没有 VPS 也可以尝试本机部署；电脑需要保持开机、联网且 Docker 正在运行。当前提供的是部署步骤，尚未完成 Mac、Windows 或 Apple 芯片的实机验证，不能视为各平台兼容性认证。
+
 ## 功能
 
 | 工具 | 用途 |

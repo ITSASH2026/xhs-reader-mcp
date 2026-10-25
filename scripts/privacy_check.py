@@ -17,6 +17,7 @@ PUBLIC_URL_DOMAINS={
     'ffmpeg.org','example.com','mcp.example.com','www.xiaohongshu.com',
     'xiaohongshu.com','xhslink.com','xhslink.cn','xhs.link','fsf.org',
     '127.0.0.1','0.0.0.0',
+    'docs.docker.com','www.python.org',
 }
 
 

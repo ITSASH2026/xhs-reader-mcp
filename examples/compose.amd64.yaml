@@ -1,0 +1,5 @@
+# Optional, unverified emulation fallback for ARM hosts.
+# Use together with the root compose.yaml; do not run this file alone.
+services:
+  reader:
+    platform: linux/amd64
